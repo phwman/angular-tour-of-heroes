@@ -10,7 +10,7 @@ import { NumberValueAccessor } from '@angular/forms';
     <div>
       <label>이름 : </label>
       <input [(ngModel)]="hero.name" placeholder="이름"/>
-    </div>
+    </div><div>test</div>
   `,
   styleUrls: ['./app.component.css']
 })
